@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace CashSoftware.DataAccessLayer.Concrete
 {
-    public class Context: IdentityDbContext
+    public class Context: IdentityDbContext<ApplicationUser, ApplicationRole, int>
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -17,6 +17,6 @@ namespace CashSoftware.DataAccessLayer.Concrete
         }
 
         public DbSet<CustomerAccount> CustomerAccounts { get; set; }
-        public DbSet<CustomerAccountProcess> customerAccountProcesses { get; set; }
+        public DbSet<CustomerAccountProcess> CustomerAccountProcesses { get; set; }
     }
 }
