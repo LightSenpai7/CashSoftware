@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CashSoftware.EntityLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee2b1b45e9c8dc11eb6cb1d35b7116f5fb7aea17")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4698de0f47c86c38de40f2e319e9e69f9f96dadc")]
 [assembly: System.Reflection.AssemblyProductAttribute("CashSoftware.EntityLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CashSoftware.EntityLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
