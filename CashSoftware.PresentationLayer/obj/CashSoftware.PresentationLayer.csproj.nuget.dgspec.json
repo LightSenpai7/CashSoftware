@@ -4,6 +4,279 @@
     "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj": {}
   },
   "projects": {
+    "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.BusinessLayer\\CashSoftware.BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.BusinessLayer\\CashSoftware.BusinessLayer.csproj",
+        "projectName": "CashSoftware.BusinessLayer",
+        "projectPath": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.BusinessLayer\\CashSoftware.BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\Lenova\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.BusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lenova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.DataAccessLayer\\CashSoftware.DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.DataAccessLayer\\CashSoftware.DataAccessLayer.csproj"
+              },
+              "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.EntityLayer\\CashSoftware.EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.EntityLayer\\CashSoftware.EntityLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.32, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.32, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.32, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.32, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.DataAccessLayer\\CashSoftware.DataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.DataAccessLayer\\CashSoftware.DataAccessLayer.csproj",
+        "projectName": "CashSoftware.DataAccessLayer",
+        "projectPath": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.DataAccessLayer\\CashSoftware.DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\Lenova\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.DataAccessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lenova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.EntityLayer\\CashSoftware.EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.EntityLayer\\CashSoftware.EntityLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.32, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.32, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.32, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.32, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.32, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.EntityLayer\\CashSoftware.EntityLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.EntityLayer\\CashSoftware.EntityLayer.csproj",
+        "projectName": "CashSoftware.EntityLayer",
+        "projectPath": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.EntityLayer\\CashSoftware.EntityLayer.csproj",
+        "packagesPath": "C:\\Users\\Lenova\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.EntityLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lenova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.32, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.32, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.32, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.32, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.32, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -27,7 +300,17 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.BusinessLayer\\CashSoftware.BusinessLayer.csproj": {
+                "projectPath": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.BusinessLayer\\CashSoftware.BusinessLayer.csproj"
+              },
+              "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.DataAccessLayer\\CashSoftware.DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.DataAccessLayer\\CashSoftware.DataAccessLayer.csproj"
+              },
+              "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.EntityLayer\\CashSoftware.EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.EntityLayer\\CashSoftware.EntityLayer.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

@@ -1258,6 +1258,55 @@
             "rid": "win"
           }
         }
+      },
+      "CashSoftware.BusinessLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "CashSoftware.DataAccessLayer": "1.0.0",
+          "CashSoftware.EntityLayer": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.32",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.32"
+        },
+        "compile": {
+          "bin/placeholder/CashSoftware.BusinessLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CashSoftware.BusinessLayer.dll": {}
+        }
+      },
+      "CashSoftware.DataAccessLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "CashSoftware.EntityLayer": "1.0.0",
+          "Microsoft.AspNetCore.Identity": "2.2.0",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.32",
+          "Microsoft.EntityFrameworkCore": "6.0.32",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.32"
+        },
+        "compile": {
+          "bin/placeholder/CashSoftware.DataAccessLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CashSoftware.DataAccessLayer.dll": {}
+        }
+      },
+      "CashSoftware.EntityLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity": "2.2.0",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.32",
+          "Microsoft.EntityFrameworkCore": "6.0.32",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.32"
+        },
+        "compile": {
+          "bin/placeholder/CashSoftware.EntityLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CashSoftware.EntityLayer.dll": {}
+        }
       }
     }
   },
@@ -2919,10 +2968,28 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "CashSoftware.BusinessLayer/1.0.0": {
+      "type": "project",
+      "path": "../CashSoftware.BusinessLayer/CashSoftware.BusinessLayer.csproj",
+      "msbuildProject": "../CashSoftware.BusinessLayer/CashSoftware.BusinessLayer.csproj"
+    },
+    "CashSoftware.DataAccessLayer/1.0.0": {
+      "type": "project",
+      "path": "../CashSoftware.DataAccessLayer/CashSoftware.DataAccessLayer.csproj",
+      "msbuildProject": "../CashSoftware.DataAccessLayer/CashSoftware.DataAccessLayer.csproj"
+    },
+    "CashSoftware.EntityLayer/1.0.0": {
+      "type": "project",
+      "path": "../CashSoftware.EntityLayer/CashSoftware.EntityLayer.csproj",
+      "msbuildProject": "../CashSoftware.EntityLayer/CashSoftware.EntityLayer.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "CashSoftware.BusinessLayer >= 1.0.0",
+      "CashSoftware.DataAccessLayer >= 1.0.0",
+      "CashSoftware.EntityLayer >= 1.0.0",
       "Microsoft.AspNetCore.Identity >= 2.2.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.32",
       "Microsoft.EntityFrameworkCore >= 6.0.32",
@@ -2957,7 +3024,17 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.BusinessLayer\\CashSoftware.BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.BusinessLayer\\CashSoftware.BusinessLayer.csproj"
+            },
+            "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.DataAccessLayer\\CashSoftware.DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.DataAccessLayer\\CashSoftware.DataAccessLayer.csproj"
+            },
+            "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.EntityLayer\\CashSoftware.EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.EntityLayer\\CashSoftware.EntityLayer.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

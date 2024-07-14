@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CashSoftware.EntityLayer.Concrete
 {
-    internal class CustomerAccountProcess
+    public class CustomerAccountProcess
     {
         public int CustomerAccountProcessId { get; set; }
         public string ProcessType { get; set; }

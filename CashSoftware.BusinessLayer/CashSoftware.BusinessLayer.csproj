@@ -19,4 +19,9 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CashSoftware.DataAccessLayer\CashSoftware.DataAccessLayer.csproj" />
+    <ProjectReference Include="..\CashSoftware.EntityLayer\CashSoftware.EntityLayer.csproj" />
+  </ItemGroup>
+
 </Project>

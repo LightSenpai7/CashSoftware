@@ -1,0 +1,15 @@
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.EntityLayer\bin\Debug\net6.0\CashSoftware.EntityLayer.deps.json
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.EntityLayer\bin\Debug\net6.0\CashSoftware.EntityLayer.runtimeconfig.json
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.EntityLayer\bin\Debug\net6.0\CashSoftware.EntityLayer.dll
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.EntityLayer\bin\Debug\net6.0\CashSoftware.EntityLayer.pdb
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.EntityLayer\obj\Debug\net6.0\CashSoftware.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.EntityLayer\obj\Debug\net6.0\CashSoftware.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.EntityLayer\obj\Debug\net6.0\CashSoftware.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.EntityLayer\obj\Debug\net6.0\CashSoftware.EntityLayer.AssemblyInfo.cs
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.EntityLayer\obj\Debug\net6.0\CashSoftware.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.EntityLayer\obj\Debug\net6.0\CashSoftware.EntityLayer.sourcelink.json
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.EntityLayer\obj\Debug\net6.0\CashSoftware.EntityLayer.dll
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.EntityLayer\obj\Debug\net6.0\refint\CashSoftware.EntityLayer.dll
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.EntityLayer\obj\Debug\net6.0\CashSoftware.EntityLayer.pdb
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.EntityLayer\obj\Debug\net6.0\CashSoftware.EntityLayer.genruntimeconfig.cache
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.EntityLayer\obj\Debug\net6.0\ref\CashSoftware.EntityLayer.dll

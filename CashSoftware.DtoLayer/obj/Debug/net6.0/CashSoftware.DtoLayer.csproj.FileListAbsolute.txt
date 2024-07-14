@@ -1,0 +1,15 @@
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.DtoLayer\bin\Debug\net6.0\CashSoftware.DtoLayer.deps.json
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.DtoLayer\bin\Debug\net6.0\CashSoftware.DtoLayer.runtimeconfig.json
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.DtoLayer\bin\Debug\net6.0\CashSoftware.DtoLayer.dll
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.DtoLayer\bin\Debug\net6.0\CashSoftware.DtoLayer.pdb
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.DtoLayer\obj\Debug\net6.0\CashSoftware.DtoLayer.csproj.AssemblyReference.cache
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.DtoLayer\obj\Debug\net6.0\CashSoftware.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.DtoLayer\obj\Debug\net6.0\CashSoftware.DtoLayer.AssemblyInfoInputs.cache
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.DtoLayer\obj\Debug\net6.0\CashSoftware.DtoLayer.AssemblyInfo.cs
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.DtoLayer\obj\Debug\net6.0\CashSoftware.DtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.DtoLayer\obj\Debug\net6.0\CashSoftware.DtoLayer.sourcelink.json
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.DtoLayer\obj\Debug\net6.0\CashSoftware.DtoLayer.dll
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.DtoLayer\obj\Debug\net6.0\refint\CashSoftware.DtoLayer.dll
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.DtoLayer\obj\Debug\net6.0\CashSoftware.DtoLayer.pdb
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.DtoLayer\obj\Debug\net6.0\CashSoftware.DtoLayer.genruntimeconfig.cache
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.DtoLayer\obj\Debug\net6.0\ref\CashSoftware.DtoLayer.dll
