@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7DB27D5F-2EB6-4084-8160-91EBD4BE1FCB}|CashSoftware.DtoLayer\\CashSoftware.DtoLayer.csproj|c:\\users\\lenova\\documents\\github\\cashsoftware\\cashsoftware.dtolayer\\dtos\\applicationuserdtos\\applicationuserregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DB27D5F-2EB6-4084-8160-91EBD4BE1FCB}|CashSoftware.DtoLayer\\CashSoftware.DtoLayer.csproj|solutionrelative:cashsoftware.dtolayer\\dtos\\applicationuserdtos\\applicationuserregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{462E85BF-89DE-4B1F-B1F2-3BF886960685}|CashSoftware.EntityLayer\\CashSoftware.EntityLayer.csproj|c:\\users\\lenova\\documents\\github\\cashsoftware\\cashsoftware.entitylayer\\concrete\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{462E85BF-89DE-4B1F-B1F2-3BF886960685}|CashSoftware.EntityLayer\\CashSoftware.EntityLayer.csproj|solutionrelative:cashsoftware.entitylayer\\concrete\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{462E85BF-89DE-4B1F-B1F2-3BF886960685}|CashSoftware.EntityLayer\\CashSoftware.EntityLayer.csproj|c:\\users\\lenova\\documents\\github\\cashsoftware\\cashsoftware.entitylayer\\concrete\\customeraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{462E85BF-89DE-4B1F-B1F2-3BF886960685}|CashSoftware.EntityLayer\\CashSoftware.EntityLayer.csproj|solutionrelative:cashsoftware.entitylayer\\concrete\\customeraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DB27D5F-2EB6-4084-8160-91EBD4BE1FCB}|CashSoftware.DtoLayer\\CashSoftware.DtoLayer.csproj|c:\\users\\lenova\\documents\\github\\cashsoftware\\cashsoftware.dtolayer\\cashsoftware.dtolayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7DB27D5F-2EB6-4084-8160-91EBD4BE1FCB}|CashSoftware.DtoLayer\\CashSoftware.DtoLayer.csproj|solutionrelative:cashsoftware.dtolayer\\cashsoftware.dtolayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{003D7DC3-6BBA-483E-93F0-7573D53509C0}|CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj|c:\\users\\lenova\\documents\\github\\cashsoftware\\cashsoftware.presentationlayer\\cashsoftware.presentationlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{003D7DC3-6BBA-483E-93F0-7573D53509C0}|CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj|solutionrelative:cashsoftware.presentationlayer\\cashsoftware.presentationlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,53 +25,21 @@
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.EntityLayer\\Concrete\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "CashSoftware.EntityLayer\\Concrete\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.EntityLayer\\Concrete\\ApplicationUser.cs",
-              "RelativeToolTip": "CashSoftware.EntityLayer\\Concrete\\ApplicationUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T08:38:26.075Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CustomerAccount.cs",
-              "DocumentMoniker": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.EntityLayer\\Concrete\\CustomerAccount.cs",
-              "RelativeDocumentMoniker": "CashSoftware.EntityLayer\\Concrete\\CustomerAccount.cs",
-              "ToolTip": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.EntityLayer\\Concrete\\CustomerAccount.cs",
-              "RelativeToolTip": "CashSoftware.EntityLayer\\Concrete\\CustomerAccount.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T08:38:25.098Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ApplicationUserRegisterDto.cs",
-              "DocumentMoniker": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.DtoLayer\\Dtos\\ApplicationUserDtos\\ApplicationUserRegisterDto.cs",
-              "RelativeDocumentMoniker": "CashSoftware.DtoLayer\\Dtos\\ApplicationUserDtos\\ApplicationUserRegisterDto.cs",
-              "ToolTip": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.DtoLayer\\Dtos\\ApplicationUserDtos\\ApplicationUserRegisterDto.cs",
-              "RelativeToolTip": "CashSoftware.DtoLayer\\Dtos\\ApplicationUserDtos\\ApplicationUserRegisterDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T08:37:47.546Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CashSoftware.DtoLayer.csproj",
-              "DocumentMoniker": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.DtoLayer\\CashSoftware.DtoLayer.csproj",
-              "RelativeDocumentMoniker": "CashSoftware.DtoLayer\\CashSoftware.DtoLayer.csproj",
-              "ToolTip": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.DtoLayer\\CashSoftware.DtoLayer.csproj",
-              "RelativeToolTip": "CashSoftware.DtoLayer\\CashSoftware.DtoLayer.csproj",
+              "Title": "CashSoftware.PresentationLayer",
+              "DocumentMoniker": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj",
+              "RelativeDocumentMoniker": "CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj",
+              "ToolTip": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj",
+              "RelativeToolTip": "CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-14T08:34:52.256Z"
+              "WhenOpened": "2024-11-25T15:15:45.604Z",
+              "EditorCaption": ""
             }
           ]
         }

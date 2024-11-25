@@ -78,3 +78,9 @@ C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.PresentationLayer\obj
 C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.PresentationLayer\obj\Debug\net6.0\CashSoftware.PresentationLayer.pdb
 C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.PresentationLayer\obj\Debug\net6.0\CashSoftware.PresentationLayer.genruntimeconfig.cache
 C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.PresentationLayer\obj\Debug\net6.0\ref\CashSoftware.PresentationLayer.dll
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.PresentationLayer\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.PresentationLayer\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.PresentationLayer\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.PresentationLayer\bin\Debug\net6.0\CashSoftware.DtoLayer.dll
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.PresentationLayer\bin\Debug\net6.0\CashSoftware.DtoLayer.pdb
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.PresentationLayer\obj\Debug\net6.0\CashSoftware.PresentationLayer.MvcApplicationPartsAssemblyInfo.cs

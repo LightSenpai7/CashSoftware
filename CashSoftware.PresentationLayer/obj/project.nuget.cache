@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "tLq5iU4pJtHTbBHUPnCeyc3mYb6Uz+R9TnqBq3IfoRHvTWbz/AQ5zTy4haIfjc+JO2h9/X5DRudkqHuVJEFZeQ==",
+  "dgSpecHash": "/HttqVXvTrwLqcERuobwtUvdOVc+Mh/CgGHzADKQWS4MGhGBn9VUy6h20ya3Zdx+7JwnIN81hX7HUAK/mwtejg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Lenova\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
+    "C:\\Users\\Lenova\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\Lenova\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.11.0\\fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512",
     "C:\\Users\\Lenova\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Lenova\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\Lenova\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

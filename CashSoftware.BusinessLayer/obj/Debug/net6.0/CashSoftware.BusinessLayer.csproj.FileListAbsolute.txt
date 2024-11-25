@@ -18,3 +18,5 @@ C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.BusinessLayer\obj\Deb
 C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.BusinessLayer\obj\Debug\net6.0\CashSoftware.BusinessLayer.pdb
 C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.BusinessLayer\obj\Debug\net6.0\CashSoftware.BusinessLayer.genruntimeconfig.cache
 C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.BusinessLayer\obj\Debug\net6.0\ref\CashSoftware.BusinessLayer.dll
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.BusinessLayer\bin\Debug\net6.0\CashSoftware.DtoLayer.dll
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.BusinessLayer\bin\Debug\net6.0\CashSoftware.DtoLayer.pdb
