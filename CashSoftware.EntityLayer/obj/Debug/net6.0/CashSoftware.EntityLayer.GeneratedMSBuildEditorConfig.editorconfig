@@ -11,3 +11,5 @@ build_property.RootNamespace = CashSoftware.EntityLayer
 build_property.ProjectDir = C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.EntityLayer\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 6.0
+build_property.EnableCodeStyleSeverity = 
