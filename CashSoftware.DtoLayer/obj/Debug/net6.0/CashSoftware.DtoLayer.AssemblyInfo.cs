@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CashSoftware.DtoLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9120a1092cb3525e50e3b7a7c5e3948cd51d59f2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+000fb7a1b74e3448765042b80ab95f031b424531")]
 [assembly: System.Reflection.AssemblyProductAttribute("CashSoftware.DtoLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CashSoftware.DtoLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
