@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{003D7DC3-6BBA-483E-93F0-7573D53509C0}|CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj|c:\\users\\lenova\\documents\\github\\cashsoftware\\cashsoftware.presentationlayer\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003D7DC3-6BBA-483E-93F0-7573D53509C0}|CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj|solutionrelative:cashsoftware.presentationlayer\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +23,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\Views\\Register\\Index.cshtml",
+              "RelativeDocumentMoniker": "CashSoftware.PresentationLayer\\Views\\Register\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\Views\\Register\\Index.cshtml",
+              "RelativeToolTip": "CashSoftware.PresentationLayer\\Views\\Register\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T00:00:42.217Z",
+              "EditorCaption": ""
             }
           ]
         }

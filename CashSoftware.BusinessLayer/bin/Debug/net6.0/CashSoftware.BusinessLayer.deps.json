@@ -689,7 +689,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.32"
         },
         "runtime": {
-          "CashSoftware.DataAccessLayer.dll": {}
+          "CashSoftware.DataAccessLayer.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "CashSoftware.DtoLayer/1.0.0": {
@@ -698,7 +701,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.32"
         },
         "runtime": {
-          "CashSoftware.DtoLayer.dll": {}
+          "CashSoftware.DtoLayer.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "CashSoftware.EntityLayer/1.0.0": {
@@ -709,7 +715,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.32"
         },
         "runtime": {
-          "CashSoftware.EntityLayer.dll": {}
+          "CashSoftware.EntityLayer.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

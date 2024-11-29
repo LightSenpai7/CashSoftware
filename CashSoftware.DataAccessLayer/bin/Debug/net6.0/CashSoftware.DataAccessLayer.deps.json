@@ -833,7 +833,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.32"
         },
         "runtime": {
-          "CashSoftware.EntityLayer.dll": {}
+          "CashSoftware.EntityLayer.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
