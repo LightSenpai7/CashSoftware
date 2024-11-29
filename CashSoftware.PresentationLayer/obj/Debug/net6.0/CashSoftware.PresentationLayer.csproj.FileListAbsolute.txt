@@ -268,3 +268,7 @@ C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.PresentationLayer\bin
 C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.PresentationLayer\obj\Debug\net6.0\staticwebassets.build.endpoints.json
 C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.PresentationLayer\obj\Debug\net6.0\staticwebassets\msbuild.CashSoftware.PresentationLayer.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
 C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.PresentationLayer\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.PresentationLayer\bin\Debug\net6.0\MailKit.dll
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.PresentationLayer\bin\Debug\net6.0\MimeKit.dll
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.PresentationLayer\bin\Debug\net6.0\NETCore.MailKit.dll
+C:\Users\Lenova\Documents\GitHub\CashSoftware\CashSoftware.PresentationLayer\bin\Debug\net6.0\BouncyCastle.Crypto.dll

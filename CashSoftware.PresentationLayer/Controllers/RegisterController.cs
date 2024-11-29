@@ -62,6 +62,8 @@ namespace CashSoftware.PresentationLayer.Controllers
                     smtpClient.Send(mimeMessage);
                     smtpClient.Disconnect(true);
 
+                    TempData["Email"] = applicationUserRegisterDto.Email;
+
 
                     return RedirectToAction("Index", "ConfirmMail");
                 }
