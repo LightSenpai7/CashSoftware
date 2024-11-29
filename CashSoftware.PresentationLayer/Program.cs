@@ -1,12 +1,13 @@
 using CashSoftware.DataAccessLayer.Concrete;
 using CashSoftware.EntityLayer.Concrete;
+using CashSoftware.PresentationLayer.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<Context>();
-builder.Services.AddIdentity<ApplicationUser, ApplicationRole>().AddEntityFrameworkStores<Context>();
+builder.Services.AddIdentity<ApplicationUser, ApplicationRole>().AddEntityFrameworkStores<Context>().AddErrorDescriber<CustomIdentityValidator>();
 
 var app = builder.Build();
 
