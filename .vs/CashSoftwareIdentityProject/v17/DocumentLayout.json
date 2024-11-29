@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{003D7DC3-6BBA-483E-93F0-7573D53509C0}|CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj|c:\\users\\lenova\\documents\\github\\cashsoftware\\cashsoftware.presentationlayer\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{003D7DC3-6BBA-483E-93F0-7573D53509C0}|CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj|solutionrelative:cashsoftware.presentationlayer\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003D7DC3-6BBA-483E-93F0-7573D53509C0}|CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj|c:\\users\\lenova\\documents\\github\\cashsoftware\\cashsoftware.presentationlayer\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003D7DC3-6BBA-483E-93F0-7573D53509C0}|CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj|solutionrelative:cashsoftware.presentationlayer\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +30,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "CashSoftware.PresentationLayer\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "CashSoftware.PresentationLayer\\Controllers\\RegisterController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T02:05:34.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\Views\\Register\\Index.cshtml",
               "RelativeDocumentMoniker": "CashSoftware.PresentationLayer\\Views\\Register\\Index.cshtml",
               "ToolTip": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\Views\\Register\\Index.cshtml",
               "RelativeToolTip": "CashSoftware.PresentationLayer\\Views\\Register\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABfAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-29T00:00:42.217Z",
               "EditorCaption": ""
