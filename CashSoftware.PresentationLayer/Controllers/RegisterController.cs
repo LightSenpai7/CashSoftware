@@ -24,11 +24,14 @@ namespace CashSoftware.PresentationLayer.Controllers
         public async Task<IActionResult> Index(ApplicationUserRegisterDto applicationUserRegisterDto)
         {
             if (ModelState.IsValid) {
+
+                Random random = new Random();
                 ApplicationUser applicationUser = new ApplicationUser()
                 {
                     UserName = applicationUserRegisterDto.UserName,
                     Email = applicationUserRegisterDto.Email,
                     NameSurname = applicationUserRegisterDto.NameSurname,
+                    ConfirmCode = random.Next(100000, 1000000)
                 };
 
                 var result = await _userManager.CreateAsync(applicationUser, applicationUserRegisterDto.Password);
