@@ -63,7 +63,8 @@
               "RelativeToolTip": "CashSoftware.PresentationLayer\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T02:13:24.29Z"
+              "WhenOpened": "2024-11-29T02:13:24.29Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -86,7 +87,7 @@
               "RelativeDocumentMoniker": "CashSoftware.PresentationLayer\\Controllers\\RegisterController.cs",
               "ToolTip": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\Controllers\\RegisterController.cs",
               "RelativeToolTip": "CashSoftware.PresentationLayer\\Controllers\\RegisterController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCEAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDwAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T02:05:34.707Z",
               "EditorCaption": ""
@@ -99,9 +100,10 @@
               "RelativeDocumentMoniker": "CashSoftware.PresentationLayer\\Views\\Register\\Index.cshtml",
               "ToolTip": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\Views\\Register\\Index.cshtml",
               "RelativeToolTip": "CashSoftware.PresentationLayer\\Views\\Register\\Index.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADIAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAIBJwDIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-29T00:00:42.217Z"
+              "WhenOpened": "2024-11-29T00:00:42.217Z",
+              "EditorCaption": ""
             }
           ]
         }
