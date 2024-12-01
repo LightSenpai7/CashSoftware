@@ -29,6 +29,10 @@ namespace CashSoftware.PresentationLayer.Controllers
             var user = await _userManager.FindByEmailAsync(confirmEmailViewModel.Email.ToString());
 
             if (user.ConfirmCode == confirmEmailViewModel.ConfirmCode) {
+                
+                user.EmailConfirmed = true;
+                await _userManager.UpdateAsync(user);
+
                 return RedirectToAction("Index", "MyProfile");
             }
             return View();

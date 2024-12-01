@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CashSoftware.BusinessLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc8c7d98f5ee5dcadfadd6e66c2f2ea9ea8dc516")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2e66e611bb66f54ed5e960326d6b80fedf7ed20")]
 [assembly: System.Reflection.AssemblyProductAttribute("CashSoftware.BusinessLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CashSoftware.BusinessLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
