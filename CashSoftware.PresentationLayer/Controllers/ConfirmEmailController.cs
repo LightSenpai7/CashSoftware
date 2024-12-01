@@ -1,4 +1,6 @@
-﻿using CashSoftware.PresentationLayer.ViewModels;
+﻿using CashSoftware.EntityLayer.Concrete;
+using CashSoftware.PresentationLayer.ViewModels;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CashSoftware.PresentationLayer.Controllers
@@ -6,16 +8,29 @@ namespace CashSoftware.PresentationLayer.Controllers
     public class ConfirmEmailController : Controller
     {
 
+        private readonly UserManager<ApplicationUser> _userManager;
+
+        public ConfirmEmailController(UserManager<ApplicationUser> userManager)
+        {
+            _userManager = userManager;
+        }
+
         [HttpGet]
-        public IActionResult Index(int id)
+        public IActionResult Index()
         {
             var emailValue = TempData["Email"];
             return View();
         }
 
         [HttpPost]
-        public IActionResult Index(ConfirmEmailViewModel confirmEmailViewModel)
+        public async Task<IActionResult> Index(ConfirmEmailViewModel confirmEmailViewModel)
         {
+            var emailValue = TempData["Email"];
+            var user = await _userManager.FindByEmailAsync(confirmEmailViewModel.Email.ToString());
+
+            if (user.ConfirmCode == confirmEmailViewModel.ConfirmCode) {
+                return RedirectToAction("Index", "MyProfile");
+            }
             return View();
         }
     }

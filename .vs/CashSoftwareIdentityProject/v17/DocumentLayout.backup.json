@@ -3,40 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{003D7DC3-6BBA-483E-93F0-7573D53509C0}|CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj|c:\\users\\lenova\\documents\\github\\cashsoftware\\cashsoftware.presentationlayer\\controllers\\confirmemailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{003D7DC3-6BBA-483E-93F0-7573D53509C0}|CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj|solutionrelative:cashsoftware.presentationlayer\\controllers\\confirmemailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{003D7DC3-6BBA-483E-93F0-7573D53509C0}|CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj|c:\\users\\lenova\\documents\\github\\cashsoftware\\cashsoftware.presentationlayer\\views\\confirmemail\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003D7DC3-6BBA-483E-93F0-7573D53509C0}|CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj|solutionrelative:cashsoftware.presentationlayer\\views\\confirmemail\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{003D7DC3-6BBA-483E-93F0-7573D53509C0}|CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj|c:\\users\\lenova\\documents\\github\\cashsoftware\\cashsoftware.presentationlayer\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{003D7DC3-6BBA-483E-93F0-7573D53509C0}|CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj|solutionrelative:cashsoftware.presentationlayer\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{003D7DC3-6BBA-483E-93F0-7573D53509C0}|CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj|c:\\users\\lenova\\documents\\github\\cashsoftware\\cashsoftware.presentationlayer\\controllers\\confirmemailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003D7DC3-6BBA-483E-93F0-7573D53509C0}|CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj|solutionrelative:cashsoftware.presentationlayer\\controllers\\confirmemailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{003D7DC3-6BBA-483E-93F0-7573D53509C0}|CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj|c:\\users\\lenova\\documents\\github\\cashsoftware\\cashsoftware.presentationlayer\\viewmodels\\confirmemailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{003D7DC3-6BBA-483E-93F0-7573D53509C0}|CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj|solutionrelative:cashsoftware.presentationlayer\\viewmodels\\confirmemailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{003D7DC3-6BBA-483E-93F0-7573D53509C0}|CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj|c:\\users\\lenova\\documents\\github\\cashsoftware\\cashsoftware.presentationlayer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{003D7DC3-6BBA-483E-93F0-7573D53509C0}|CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj|solutionrelative:cashsoftware.presentationlayer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{003D7DC3-6BBA-483E-93F0-7573D53509C0}|CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj|c:\\users\\lenova\\documents\\github\\cashsoftware\\cashsoftware.presentationlayer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003D7DC3-6BBA-483E-93F0-7573D53509C0}|CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj|solutionrelative:cashsoftware.presentationlayer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{003D7DC3-6BBA-483E-93F0-7573D53509C0}|CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj|c:\\users\\lenova\\documents\\github\\cashsoftware\\cashsoftware.presentationlayer\\views\\confirmemail\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{003D7DC3-6BBA-483E-93F0-7573D53509C0}|CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj|solutionrelative:cashsoftware.presentationlayer\\views\\confirmemail\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{003D7DC3-6BBA-483E-93F0-7573D53509C0}|CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj|c:\\users\\lenova\\documents\\github\\cashsoftware\\cashsoftware.presentationlayer\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003D7DC3-6BBA-483E-93F0-7573D53509C0}|CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj|solutionrelative:cashsoftware.presentationlayer\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{003D7DC3-6BBA-483E-93F0-7573D53509C0}|CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj|c:\\users\\lenova\\documents\\github\\cashsoftware\\cashsoftware.presentationlayer\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{003D7DC3-6BBA-483E-93F0-7573D53509C0}|CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj|solutionrelative:cashsoftware.presentationlayer\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{003D7DC3-6BBA-483E-93F0-7573D53509C0}|CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj|c:\\users\\lenova\\documents\\github\\cashsoftware\\cashsoftware.presentationlayer\\controllers\\myprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003D7DC3-6BBA-483E-93F0-7573D53509C0}|CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj|solutionrelative:cashsoftware.presentationlayer\\controllers\\myprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{462E85BF-89DE-4B1F-B1F2-3BF886960685}|CashSoftware.EntityLayer\\CashSoftware.EntityLayer.csproj|c:\\users\\lenova\\documents\\github\\cashsoftware\\cashsoftware.entitylayer\\concrete\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{462E85BF-89DE-4B1F-B1F2-3BF886960685}|CashSoftware.EntityLayer\\CashSoftware.EntityLayer.csproj|solutionrelative:cashsoftware.entitylayer\\concrete\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{003D7DC3-6BBA-483E-93F0-7573D53509C0}|CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj|c:\\users\\lenova\\documents\\github\\cashsoftware\\cashsoftware.presentationlayer\\views\\myprofile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003D7DC3-6BBA-483E-93F0-7573D53509C0}|CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj|solutionrelative:cashsoftware.presentationlayer\\views\\myprofile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003D7DC3-6BBA-483E-93F0-7573D53509C0}|CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj|c:\\users\\lenova\\documents\\github\\cashsoftware\\cashsoftware.presentationlayer\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003D7DC3-6BBA-483E-93F0-7573D53509C0}|CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj|solutionrelative:cashsoftware.presentationlayer\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{003D7DC3-6BBA-483E-93F0-7573D53509C0}|CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj|c:\\users\\lenova\\documents\\github\\cashsoftware\\cashsoftware.presentationlayer\\models\\customidentityvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{003D7DC3-6BBA-483E-93F0-7573D53509C0}|CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj|solutionrelative:cashsoftware.presentationlayer\\models\\customidentityvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{003D7DC3-6BBA-483E-93F0-7573D53509C0}|CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj|c:\\users\\lenova\\documents\\github\\cashsoftware\\cashsoftware.presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{003D7DC3-6BBA-483E-93F0-7573D53509C0}|CashSoftware.PresentationLayer\\CashSoftware.PresentationLayer.csproj|solutionrelative:cashsoftware.presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,117 +58,119 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CashSoftware.PresentationLayer\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CashSoftware.PresentationLayer\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T15:41:48.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "CashSoftware.PresentationLayer\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "CashSoftware.PresentationLayer\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T15:41:44.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\Views\\ConfirmEmail\\Index.cshtml",
+              "RelativeDocumentMoniker": "CashSoftware.PresentationLayer\\Views\\ConfirmEmail\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\Views\\ConfirmEmail\\Index.cshtml",
+              "RelativeToolTip": "CashSoftware.PresentationLayer\\Views\\ConfirmEmail\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T15:40:55.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\Controllers\\MyProfileController.cs",
+              "RelativeDocumentMoniker": "CashSoftware.PresentationLayer\\Controllers\\MyProfileController.cs",
+              "ToolTip": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\Controllers\\MyProfileController.cs",
+              "RelativeToolTip": "CashSoftware.PresentationLayer\\Controllers\\MyProfileController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:39:43.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfirmEmailController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\Controllers\\ConfirmEmailController.cs",
+              "RelativeDocumentMoniker": "CashSoftware.PresentationLayer\\Controllers\\ConfirmEmailController.cs",
+              "ToolTip": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\Controllers\\ConfirmEmailController.cs",
+              "RelativeToolTip": "CashSoftware.PresentationLayer\\Controllers\\ConfirmEmailController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:33:50.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ConfirmEmailViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\ViewModels\\ConfirmEmailViewModel.cs",
               "RelativeDocumentMoniker": "CashSoftware.PresentationLayer\\ViewModels\\ConfirmEmailViewModel.cs",
               "ToolTip": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\ViewModels\\ConfirmEmailViewModel.cs",
               "RelativeToolTip": "CashSoftware.PresentationLayer\\ViewModels\\ConfirmEmailViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T15:38:00.961Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "CashSoftware.PresentationLayer\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "CashSoftware.PresentationLayer\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T15:36:33.84Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\Views\\ConfirmEmail\\Index.cshtml",
-              "RelativeDocumentMoniker": "CashSoftware.PresentationLayer\\Views\\ConfirmEmail\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\Views\\ConfirmEmail\\Index.cshtml",
-              "RelativeToolTip": "CashSoftware.PresentationLayer\\Views\\ConfirmEmail\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-29T15:29:59.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ConfirmEmailController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\Controllers\\ConfirmEmailController.cs",
-              "RelativeDocumentMoniker": "CashSoftware.PresentationLayer\\Controllers\\ConfirmEmailController.cs",
-              "ToolTip": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\Controllers\\ConfirmEmailController.cs",
-              "RelativeToolTip": "CashSoftware.PresentationLayer\\Controllers\\ConfirmEmailController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T15:29:31.955Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RegisterController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\Controllers\\RegisterController.cs",
-              "RelativeDocumentMoniker": "CashSoftware.PresentationLayer\\Controllers\\RegisterController.cs",
-              "ToolTip": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\Controllers\\RegisterController.cs",
-              "RelativeToolTip": "CashSoftware.PresentationLayer\\Controllers\\RegisterController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAgwEAAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T02:05:34.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CustomIdentityValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\Models\\CustomIdentityValidator.cs",
-              "RelativeDocumentMoniker": "CashSoftware.PresentationLayer\\Models\\CustomIdentityValidator.cs",
-              "ToolTip": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\Models\\CustomIdentityValidator.cs",
-              "RelativeToolTip": "CashSoftware.PresentationLayer\\Models\\CustomIdentityValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T02:13:14.252Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\Program.cs",
-              "RelativeDocumentMoniker": "CashSoftware.PresentationLayer\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\Program.cs",
-              "RelativeToolTip": "CashSoftware.PresentationLayer\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T02:13:24.29Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\Views\\Register\\Index.cshtml",
-              "RelativeDocumentMoniker": "CashSoftware.PresentationLayer\\Views\\Register\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\Views\\Register\\Index.cshtml",
-              "RelativeToolTip": "CashSoftware.PresentationLayer\\Views\\Register\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-29T00:00:42.217Z",
+              "WhenOpened": "2024-11-29T17:31:12.669Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.EntityLayer\\Concrete\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "CashSoftware.EntityLayer\\Concrete\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.EntityLayer\\Concrete\\ApplicationUser.cs",
-              "RelativeToolTip": "CashSoftware.EntityLayer\\Concrete\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\Views\\MyProfile\\Index.cshtml",
+              "RelativeDocumentMoniker": "CashSoftware.PresentationLayer\\Views\\MyProfile\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\Views\\MyProfile\\Index.cshtml",
+              "RelativeToolTip": "CashSoftware.PresentationLayer\\Views\\MyProfile\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T15:40:03.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "CashSoftware.PresentationLayer\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "CashSoftware.PresentationLayer\\Controllers\\RegisterController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T02:19:12.53Z"
+              "WhenOpened": "2024-11-29T17:33:53.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomIdentityValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\Models\\CustomIdentityValidator.cs",
+              "RelativeDocumentMoniker": "CashSoftware.PresentationLayer\\Models\\CustomIdentityValidator.cs",
+              "ToolTip": "C:\\Users\\Lenova\\Documents\\GitHub\\CashSoftware\\CashSoftware.PresentationLayer\\Models\\CustomIdentityValidator.cs",
+              "RelativeToolTip": "CashSoftware.PresentationLayer\\Models\\CustomIdentityValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:31:06.665Z"
             }
           ]
         }
